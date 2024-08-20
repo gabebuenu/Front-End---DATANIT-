@@ -144,14 +144,12 @@
       <div class="criador">
         <img src="@/assets/img/gabriel.jpeg" alt="Gabriel Bueno da Silva" class="criador-foto">
         <p class="nome">Gabriel Bueno da Silva</p>
-        <p class="cargo">Estudante</p>
-        <button class="btn">Saiba mais</button>
+        <button class="btn"><i class="bi bi-linkedin"></i></button>
       </div>
       <div class="criador">
         <img src="@/assets/img/rafa.jpeg" alt="Rafael Gutierres Castanha" class="criador-foto">
         <p class="nome">Rafael Gutierres Castanha</p>
-        <p class="cargo">Professor</p>
-        <button class="btn">Saiba mais</button>
+        <button class="btn"><i class="bi bi-linkedin"></i></button>
       </div>
     </div>
   </div>
@@ -353,6 +351,9 @@ export default {
   margin-top: 20px;
   padding: 20px;
 }
+.section-universities{
+  justify-content: flex-start; /* Mantém o conteúdo fixo no topo */
+}
 
 .filters {
   display: flex;
@@ -539,18 +540,18 @@ span {
   margin-bottom: 10px;
 }
 
-.btn {
-  background-color: #000;
-  color: #fff;
-  border: none;
-  padding: 10px 20px;
-  cursor: pointer;
-  border-radius: 5px;
+
+.btn .bi-linkedin{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 30px;
+  height: 30px;
+  color: #363636;
+  border-radius: 50%;
+  text-decoration: none;
 }
 
-.btn:hover {
-  background-color: #444;
-}
 
 .btn-adicionar {
   background-color: #1A1A1A;
