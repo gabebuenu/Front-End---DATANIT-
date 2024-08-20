@@ -2,11 +2,11 @@
     <div class="methodology-container">
       <h1>Metodologia</h1>
       <p>
-        Lorem ipsum dolor sit amet. Rem libero quaerat et delectus sint ut voluptas optio ab voluptate aperiam eum quisquam repudiandae. Eos numquam quas et vero inventore est sunt veniam id minima enim.
+      O DATANIT baseia-se em duas listas de universidades amplamente reconhecidas no Brasil: o Ranking Universitário Folha e o Ranking de Universidades Empreendedoras. Essas listas abrangem 203 universidades distintas. Para cada uma dessas 203 instituições, foram acessados os websites das universidades, com o objetivo de identificar os Núcleos de Inovação Tecnológica (NIT), independentemente do nome específico utilizado para designar esses núcleos. Ou seja, mesmo que um NIT tenha um nome diferente de "núcleo de inovação tecnológica", ele foi identificado da mesma forma. Para cada núcleo identificado, foram coletados o nome, website, o endereço, a seção "sobre" e a conta no Instagram.
 
-Cum quia rerum et quos quia et doloremque tempora hic dignissimos nihil quo ratione natus! Rem dolore excepturi hic tempora voluptatem et commodi reiciendis ut reiciendis quia id unde autem sed eligendi consectetur et minima quod. Aut nihil laborum et quia voluptatem et voluptatibus distinctio et cupiditate voluptatum vel velit voluptate id ipsa voluptas ut ratione impedit. Eum explicabo facere aut unde galisum aut autem sunt aut galisum consequatur et explicabo aliquam aut obcaecati nulla.
+Na seção "sobre", é fornecida a descrição de cada NIT conforme disponível em seus respectivos websites. Já o endereço é utilizado para o georreferenciamento de todos os núcleos.
 
-Et repellat nihil qui ipsum sint qui nesciunt dolorem sed praesentium alias et voluptas odit quo enim eveniet. Eum eligendi maiores id dignissimos inventore qui iure quasi aut expedita culpa quo adipisci earum sit illo porro ut doloremque exercitationem!
+É importante destacar que nem todas as universidades possuem um NIT ou órgão similar. Além disso, o DATANIT oferece aos gestores de Instituições de Ensino e de Instituições Científicas, Tecnológicas e de Inovação a oportunidade de cadastrar os núcleos de suas respectivas instituições na seção "Adicionar".
       </p>
     </div>
 </template>
